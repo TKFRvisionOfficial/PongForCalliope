@@ -5,13 +5,13 @@ A live presentation/trailer thingy: https://youtu.be/MS8AlEOjadA
 
 If you want to build it yourself you will need to get two Calliope Mini and one Adafruit NeoPixel 8X8.
 
-- Connect the calliopes together on ground! Then connect P0 from Calliope A to P1 from Calliope B
-- Connect P1 from Calliope A to P0 from Calliope B
-- Connect the NeoPixel to C16
-- It needs to look something like this: https://imgur.com/mdsuK7t 
-
-- Flash mini-pa.hex on Calliope A
-- Flash mini-pb.hex on Calliope B
+- connect the calliopes together at ground
+- connect P0 from Calliope A to P1 from Calliope B
+- connect P1 from Calliope A to P0 from Calliope B
+- connect the NeoPixel to C16
+- it needs to look something like this: https://imgur.com/mdsuK7t 
+- flash mini-pa.hex on Calliope A
+- flash mini-pb.hex on Calliope B
 
 If you want to use other pins you will need to change these in the code.
 
