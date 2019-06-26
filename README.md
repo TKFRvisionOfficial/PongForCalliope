@@ -5,7 +5,7 @@ A live presentation/trailer thingy: https://youtu.be/MS8AlEOjadA
 
 If you want to build it yourself you will need to get two Calliope Mini and one Adafruit NeoPixel 8X8.
 
-- connect the calliopes together at ground
+- connect the Calliopes together at ground
 - connect P0 from Calliope A to P1 from Calliope B
 - connect P1 from Calliope A to P0 from Calliope B
 - connect the NeoPixel to C16
